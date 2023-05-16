@@ -1,1 +1,3 @@
-# Proyectos-de-Java-Scrip
+# Proyetos JavaScript
+
+## EJERCICIO 1
